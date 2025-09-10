@@ -1,5 +1,5 @@
 <!-- _coverpage.md -->
-![](https://avatars.githubusercontent.com/u/40133106?s=48&v=4)
+![](https://docsify.js.org/_media/icon.svg)
 
 # docsify <small>4.0</small>
 > 一个神奇的文档网站生成器。
