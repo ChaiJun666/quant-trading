@@ -1,10 +1,11 @@
 * 简介
-    * [easyio库概况](md/day01.md)
-    * [配套开发板概况](md/esp32_iot_kit.md)
-* Demo&API
-    * [01_blink](md/01_blink.md)
-    * [02_ledBlink](md/02_ledBlink.md)
-    * [03_easyio_led](md/03_easyio_led.md)
-    * [04_GPIO_IN_OUT](md/04_GPIO_IN_OUT.md)
-    * [05_Task](md/05_Task.md)
-    * [06_GPIO_INTR](md/06_GPIO_INTR.md)
+    * [博客简介](md/introduction.md)
+* 每日练习
+    * [第一周](md/week_01.md)
+      
+    * [第二周](md/week_02.md)
+    * [第二周](md/week_02.md)
+    * [第二周](md/week_02.md)
+      
+
+
